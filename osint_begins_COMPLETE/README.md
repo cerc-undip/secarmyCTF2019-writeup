@@ -16,4 +16,6 @@ Isi dari qr menyimpan link menuju https://sec-army.ml/osintbegins/.
 
 Website tersebut memang tidak menampilkan apapun, namun jika kita iihat source-nya (Ctrl+U) maka flag yang kita inginkan berada pada baris bawah.
 
+![](./ss02.png)
+
 flag : `secarmy{1_c4n_do_0s1nt}`
