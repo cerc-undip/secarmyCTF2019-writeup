@@ -8,7 +8,9 @@
 
 ---
 
-Kita fokus pada fungsi `checkLogin`
+![](./ss01.png)
+
+Lihat source web, kita fokus pada fungsi `checkLogin`
 ```javascript
 var checkLogin = function () {
   var password = document.getElementById("password").value;
