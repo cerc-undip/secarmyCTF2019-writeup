@@ -7,9 +7,11 @@
 > Challenge URL- Link Here
 > Author: umair9747
 
-linke : [Here](http://sec-army.ml/sillymongolian)
+link : [Here](http://sec-army.ml/sillymongolian)
 
 ---
+
+![](./ss01.png)
 
 Kita disuguhkan dengan website yang memiliki input password dan tombol Submit. Jika kita teliti, tombol Submit memanggil fungsi bernama `mainFunction()`. Kita lihat lagi pada halaman `process.js`.
 
