@@ -16,6 +16,8 @@ file : [Download](https://ctf.sec.army/files/8bbbccb87752296e92e0bf43e32ac81b/al
 
 Pada saat pertama lihat, saya teringat pada salah satu sandi pramuka yaitu sandi Kotak. Namun, ketika saya coba terjemahkan menggunakan sandi kotak hasil pesannya tidak terbaca. Setelah membaca beberapa referensi, ternyata simbol-simbol diatas adalah [Masonic Cipher](https://sites.google.com/site/lostsymbolproject/masonic-cipher).
 
-Dengan menggunakan tabel sandi, lakukan penerjemahan secara manual
+Dengan menggunakan tabel sandi, lakukan penerjemahan secara manual.
+
+![](./masonic-cipher.png)
 
 flag : `secarmy{secrets_and_ciphers}`
